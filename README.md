@@ -15,3 +15,5 @@ An open-source remote keyboard for osu!-Server
 
 该项目地址：http://git.oschina.net/lujianing/android-remote-control-computer
 
+# 开源协议
+MIT License
